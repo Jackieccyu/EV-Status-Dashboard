@@ -1,0 +1,10 @@
+.gcloudignore
+.git
+.gitignore
+__pycache__/
+*.pyc
+env/
+venv/
+.env
+*.log
+/vehicle-api-service/service-account-key.json
